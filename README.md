@@ -5,7 +5,7 @@
 
 A mobile-first web app designed specifically for **Polytechnic students** to easily manage and view their weekly class schedules — with a clean, color-coded interface inspired by real-world schedule systems (like IUOB).
 
-![WhatsApp Image 2025-09-13 at 3 05 36 AM](https://github.com/user-attachments/assets/e21d3fb8-96db-4a3c-ba3b-3ce383ad7666)
+
 
 
 ---
@@ -38,18 +38,6 @@ Whether you’re juggling multiple modules or trying to avoid class clashes, thi
 - 👨‍🎓 **Student-Specific Data**
   - Each student sees only their personalized schedule
 
----
-
-## 🧪 Example Schedule (Based on Screenshot)
-
-| Time        | Monday           | Tuesday          | Wednesday        | Thursday         | Friday           |
-|-------------|------------------|------------------|------------------|------------------|------------------|
-| 08:00–09:00 | ACC112 (S18-117) | ITB1105 (S49-030) | ACC112 (S18-117) | ITB1105 (S49-030) | ACC112 (S18-117) |
-| 09:00–10:00 | ARAB101 (S35-101)| ECON140 (S18-217)| ARAB101 (S35-101)| ECON140 (S18-217)| ARAB101 (S35-101)|
-| 10:00–11:00 | HIST122 (S18-217)| HIST122 (S18-217)| HIST122 (S18-217)| HIST122 (S18-217)| HIST122 (S18-217)|
-| 13:00–14:00 | MATHS104 (S18-217)| MATHS104 (S18-217)| MATHS104 (S18-217)| MATHS104 (S18-217)| MATHS104 (S18-217)|
-
-> This sample reflects a real Polytechnic student schedule. The app automatically generates this view when the student enters their modules and section details.
 
 ---
 
@@ -133,4 +121,4 @@ Licensed under the **MIT License**. Free for educational and personal use.
 
 Here’s what it looks like:
 
-<img src="images.png" width="300" alt="Polytechnic Student Schedule Builder UI" />
+![WhatsApp Image 2025-09-13 at 3 05 36 AM](https://github.com/user-attachments/assets/e21d3fb8-96db-4a3c-ba3b-3ce383ad7666)
