@@ -1,5 +1,7 @@
-#### ipoly
-# 📚 Polytechnic Student Schedule Builder
+# ipoly
+
+
+## 📚 Polytechnic Student Schedule Builder
 
 A mobile-first web app designed specifically for **Polytechnic students** to easily manage and view their weekly class schedules — with a clean, color-coded interface inspired by real-world schedule systems (like IUOB).
 
