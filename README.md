@@ -52,7 +52,7 @@ Whether you’re juggling multiple modules or trying to avoid class clashes, thi
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/poly-schedule-builder.git
+git clone https://github.com/hawrash/Ippoly
 ```
 
 2. **Backend Setup (Django / FastAPI)**
