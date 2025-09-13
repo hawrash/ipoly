@@ -2,8 +2,8 @@
 # 📚 Polytechnic Student Schedule Builder
 
 A mobile-first web app designed specifically for **Polytechnic students** to easily manage and view their weekly class schedules — with a clean, color-coded interface inspired by real-world schedule systems (like IUOB).
-<img width="168" height="300" alt="images" src="https://github.com/user-attachments/assets/3bf27207-c629-427a-abd4-7bc06c1f71df" />
 
+![WhatsApp Image 2025-09-13 at 3 05 36 AM](https://github.com/user-attachments/assets/e21d3fb8-96db-4a3c-ba3b-3ce383ad7666)
 
 
 ---
