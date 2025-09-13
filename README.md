@@ -1,6 +1,11 @@
 # ipoly
 
 
+<img width="278" height="300" alt="Screenshot_2025-09-13_17 47 13-removebg-preview" src="https://github.com/user-attachments/assets/6d257264-a167-44b3-929a-574d2090911f" />
+
+
+
+
 ## 📚 Polytechnic Student Schedule Builder
 
 A mobile-first web app designed specifically for **Polytechnic students** to easily manage and view their weekly class schedules — with a clean, color-coded interface inspired by real-world schedule systems (like IUOB).
